@@ -1,11 +1,11 @@
 # Neocase Naming Convention
 
 ## Folder Naming convention: 
-`<Country Code>/Process/<Process Name>/<Form Type code>-<Form User Type code>-<Form Display Type>-<Form Name>/<File>`
+```<Country Code>/Process/<Process Name>/<Form Type code>-<Form User Type code>-<Form Display Type>-<Form Name>/<File>```
 Eg--> /IN/Process/IN_START_AND_STOP_SALARY/FO-EMP-C-IN_START_AND_STOP_SALARY/<File Name>
 
 ## File Naming Convention: 
--- <Form Type>-<Form User Type>-<Form Display Type>-<Form Name>_<Field Name/Id> -- 
+```<Form Type>-<Form User Type>-<Form Display Type>-<Form Name>_<Field Name/Id>```
 Eg--> FO-MGR-C-IN_START_AND_STOP_SALARY_Technical Field
 
 <b>Note:</b> Please replace text mentioned with <> with proper value as per given selection criteria.
